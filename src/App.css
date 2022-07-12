@@ -1,0 +1,48 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+    background: #202020;
+    overflow: hidden;
+    cursor: url("../public/pics/cursor.png"), auto !important;
+}
+
+.header {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: "Monument Extended";
+    text-transform: uppercase;
+    color: white;
+    z-index: 2;
+}
+
+.container {
+    position: absolute;
+    width: 200%;
+    height: 200vh;
+}
+
+.row {
+    display: flex;
+    justify-content: space-around;
+    margin: 4em 0;
+}
+.card{
+    width: 400px;
+    height: 500px;
+    background: grey;
+    margin: 1em;
+    filter: grayscale(1);
+    opacity: 0.4;
+    transition: 1s;
+    background: no-repeat 50% 50%;
+    background-size: cover;
+}
+.card:hover{
+    filter: grayscale(0);
+    opacity: 1;
+}
