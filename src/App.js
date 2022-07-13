@@ -3,12 +3,7 @@ import './App.css';
 import CardRow from "./cardRow.jsx";
 import Panzoom from "panzoom";
 
-var element = document.querySelector(".container");
 
-Panzoom(element, {
-    minZoom: 1,
-    maxZoom: 1
-});
 
 function App() {
   return (
@@ -25,5 +20,12 @@ function App() {
     </div>
   );
 }
+
+var element = document.querySelector(".container");
+
+Panzoom(element, {
+    minZoom: 1,
+    maxZoom: 1
+});
 
 export default App;

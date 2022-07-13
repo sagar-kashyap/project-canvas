@@ -41,7 +41,7 @@ body {
     transition: 1s;
     background-repeat: no-repeat !important;
    
-    background-size: cover;
+    background-size: cover !important;
 }
 .card:hover{
     filter: grayscale(0);
