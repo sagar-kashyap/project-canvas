@@ -1,8 +1,7 @@
 import React from "react";
 
-import Pics from "./pics";
+import {Pics1,Pics2,Pics3,Pics4} from "./pics";
 import './App.css';
-
 
 
 function addLink(link){
@@ -13,10 +12,25 @@ function addLink(link){
     )
 }
 
+
+
 function cardRow(){
     return(
-        <div className='row'>
-            {Pics.map(addLink)}
+        
+        <div>
+            <div className='row'>
+                {Pics1.map(addLink)};
+            </div>
+            <div className='row'>
+                {Pics2.map(addLink)};
+            </div>
+            <div className='row'>
+                {Pics3.map(addLink)};
+            </div>
+            <div className='row'>
+                {Pics4.map(addLink)};
+            </div>
+        
         </div>
     )
 }

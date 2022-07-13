@@ -9,7 +9,7 @@ function App() {
   return (
     <div>
     <div className='header'>
-      Explore my gallery
+      Drag and Explore my gallery
     </div>
     
     <div className='container'>
