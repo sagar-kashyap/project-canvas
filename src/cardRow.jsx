@@ -3,6 +3,8 @@ import React from "react";
 import Pics from "./pics";
 import './App.css';
 
+
+
 function addLink(link){
     return(
         

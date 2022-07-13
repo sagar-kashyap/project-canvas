@@ -1,7 +1,7 @@
 const Pics=[
     {
         id:1,
-        link:"../public/pics/one.jpg"
+        link:"../public/pics/two.jpg"
 },
     {
         id:2,

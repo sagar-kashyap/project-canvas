@@ -39,7 +39,8 @@ body {
     filter: grayscale(1);
     opacity: 0.4;
     transition: 1s;
-    background: no-repeat 50% 50%;
+    background-repeat: no-repeat !important;
+   
     background-size: cover;
 }
 .card:hover{
