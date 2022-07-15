@@ -19,16 +19,16 @@ function cardRow(){
         
         <div>
             <div className='row'>
-                {Pics1.map(addLink)};
+                {Pics1.map(addLink)}
             </div>
             <div className='row'>
-                {Pics2.map(addLink)};
+                {Pics2.map(addLink)}
             </div>
             <div className='row'>
-                {Pics3.map(addLink)};
+                {Pics3.map(addLink)}
             </div>
             <div className='row'>
-                {Pics4.map(addLink)};
+                {Pics4.map(addLink)}
             </div>
         
         </div>

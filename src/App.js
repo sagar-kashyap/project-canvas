@@ -21,11 +21,19 @@ function App() {
   );
 }
 
-var element = document.querySelector(".container");
 
-Panzoom(element, {
-    minZoom: 1,
-    maxZoom: 1
-});
 
 export default App;
+
+document.addEventListener('readystatechange', event => { 
+
+  
+  if (event.target.readyState === "complete") {
+    var element = document.querySelector(".container");
+
+    Panzoom(element, {
+        minZoom: 1,
+        maxZoom: 1
+    });
+  }
+});
