@@ -18,7 +18,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     font-family: "Monument Extended";
-    font-size: medium;
+    font-size: large;
     text-transform: uppercase;
     color: white;
     z-index: 2;
@@ -36,8 +36,8 @@ body {
     margin: 4em 0;
 }
 .card{
-    width: 400px;
-    height: 500px;
+    width: 22rem;
+    height: 29rem;
     background: grey;
     margin: 0em;
     filter: grayscale(1);
