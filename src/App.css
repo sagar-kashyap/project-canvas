@@ -6,7 +6,7 @@ body {
     height: 100vh;
     background: #202020;
     overflow: hidden;
-    cursor: url("../public/pics/cursor.png"), auto !important;
+    cursor: url("../public/pictures/cursor.png"), auto !important;
 }
 @font-face {
     font-family: Monument Extended;

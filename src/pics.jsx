@@ -1,27 +1,27 @@
 const Pics1=[
     {
         id:1,
-        link:"https://github.com/sagar-kashyap/project-show-case-dragable-canvas/blob/5865f1b04f4f8fcb99f92ff0b6a9267e978ca3a8/public/pics/one.jpg?raw=true"
+        link:"/pictures/1.jpg"
 },
     {
         id:2,
-        link:"https://github.com/sagar-kashyap/project-show-case-dragable-canvas/blob/main/public/pics/six.jpg?raw=true"
+        link:"/pictures/2.jpg"
 },
     {
         id:3,
-        link:"https://github.com/sagar-kashyap/project-show-case-dragable-canvas/blob/main/public/pics/four.jpg?raw=true"
+        link:"/pictures/3.jpg"
 },
     {
         id:4,
-        link:"https://github.com/sagar-kashyap/project-show-case-dragable-canvas/blob/main/public/pics/three.jpg?raw=true"
+        link:"/pictures/4.jpg"
 },
     {
         id:5,
-        link:"https://github.com/sagar-kashyap/project-show-case-dragable-canvas/blob/main/public/pics/five.jpg?raw=true"
+        link:"/pictures/5.jpg"
 },
     {
         id:8,
-        link:"https://github.com/sagar-kashyap/project-show-case-dragable-canvas/blob/main/public/pics/eight.jpg?raw=true"
+        link:"/pictures/8.jpg"
     }
    
     
@@ -30,27 +30,27 @@ const Pics1=[
 const Pics2=[
     {
         id:6,
-        link:"https://github.com/sagar-kashyap/project-show-case-dragable-canvas/blob/main/public/pics/six.jpg?raw=true"
+        link:"/pictures/9.jpg"
 },
     {
         id:7,
-        link:"https://github.com/sagar-kashyap/project-show-case-dragable-canvas/blob/main/public/pics/seven.jpg?raw=true"
+        link:"/pictures/7.jpg"
 },
     {
         id:8,
-        link:"https://github.com/sagar-kashyap/project-show-case-dragable-canvas/blob/main/public/pics/three.jpg?raw=true"
+        link:"/pictures/8.jpg"
 },
     {
         id:2,
-        link:"https://github.com/sagar-kashyap/project-show-case-dragable-canvas/blob/main/public/pics/two.jpg?raw=true"
+        link:"/pictures/2.jpg"
     },
 {
         id:3,
-        link:"https://github.com/sagar-kashyap/project-show-case-dragable-canvas/blob/main/public/pics/five.jpg?raw=true"
+        link:"/pictures/3.jpg"
 },
     {
         id:1,
-        link:"https://github.com/sagar-kashyap/project-show-case-dragable-canvas/blob/5865f1b04f4f8fcb99f92ff0b6a9267e978ca3a8/public/pics/one.jpg?raw=true"
+        link:"/pictures/1.jpg"
     }
 ]
 
@@ -58,54 +58,54 @@ const Pics3=[
     
     {
         id:4,
-        link:"https://github.com/sagar-kashyap/project-show-case-dragable-canvas/blob/main/public/pics/four.jpg?raw=true"
+        link:"/pictures/4.jpg"
 },
     {
         id:5,
-        link:"https://github.com/sagar-kashyap/project-show-case-dragable-canvas/blob/main/public/pics/five.jpg?raw=true"
+        link:"/pictures/5.jpg"
 },
     {
         id:8,
-        link:"https://github.com/sagar-kashyap/project-show-case-dragable-canvas/blob/main/public/pics/eight.jpg?raw=true"
+        link:"/pictures/8.jpg"
     },
     {
         id:1,
-        link:"https://github.com/sagar-kashyap/project-show-case-dragable-canvas/blob/5865f1b04f4f8fcb99f92ff0b6a9267e978ca3a8/public/pics/one.jpg?raw=true"
+        link:"/pictures/1.jpg"
 },
     {
         id:2,
-        link:"https://github.com/sagar-kashyap/project-show-case-dragable-canvas/blob/main/public/pics/two.jpg?raw=true"
+        link:"/pictures/2.jpg"
 },
     {
         id:3,
-        link:"https://github.com/sagar-kashyap/project-show-case-dragable-canvas/blob/main/public/pics/three.jpg?raw=true"
+        link:"/pictures/3.jpg"
 }
 ]
 
 const Pics4=[
     {
         id:1,
-        link:"https://github.com/sagar-kashyap/project-show-case-dragable-canvas/blob/5865f1b04f4f8fcb99f92ff0b6a9267e978ca3a8/public/pics/one.jpg?raw=true"
+        link:"/pictures/1.jpg"
 },
     {
         id:2,
-        link:"https://github.com/sagar-kashyap/project-show-case-dragable-canvas/blob/main/public/pics/two.jpg?raw=true"
+        link:"/pictures/2.jpg"
 },
     {
         id:3,
-        link:"https://github.com/sagar-kashyap/project-show-case-dragable-canvas/blob/main/public/pics/three.jpg?raw=true"
+        link:"/pictures/3.jpg"
 },
     {
         id:4,
-        link:"https://github.com/sagar-kashyap/project-show-case-dragable-canvas/blob/main/public/pics/four.jpg?raw=true"
+        link:"/pictures/4.jpg"
 },
     {
         id:5,
-        link:"https://github.com/sagar-kashyap/project-show-case-dragable-canvas/blob/main/public/pics/five.jpg?raw=true"
+        link:"/pictures/5.jpg"
 },
     {
         id:8,
-        link:"https://github.com/sagar-kashyap/project-show-case-dragable-canvas/blob/main/public/pics/eight.jpg?raw=true"
+        link:"/pictures/8.jpg"
     }
 ]
 
